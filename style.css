@@ -10,7 +10,8 @@ body {
     margin: 200px auto;
 }
 img {
-    opacity: 0.5;
+    opacity: 0.8;
+    mix-blend-mode: multiply;
     
 }
 .mobile-img {
